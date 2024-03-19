@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 14
 SUBLEVEL = 339
-EXTRAVERSION = -openela
+EXTRAVERSION = -Android12-openela
 NAME = Petit Gorille
 
 # *DOCUMENTATION*
